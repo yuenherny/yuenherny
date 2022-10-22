@@ -6,7 +6,7 @@
 
 📧 How to reach me: yuenhern.yu@gmail.com | [LinkedIn](https://www.linkedin.com/in/yuenhernyu/) 
 
-🕸️ Check out my portfolio: [Website](https://yuenherny.github.io)
+🕸️ Check out my portfolio: [yuenherny.github.io](https://yuenherny.github.io)
 
 ### My stats:
 
