@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![yuenherny's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuenherny&count_private=true&layout=compact&theme=gotham)](https://github.com/yuenherny/github-readme-stats)
+[![yuenherny's GitHub stats](https://github-readme-stats-tan-phi.vercel.app/api?username=yuenherny&count_private=true&layout=compact&theme=gotham)](https://github.com/yuenherny/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuenherny&count_private=true@langs_count=8&layout=compact&theme=gotham)](https://github.com/yuenherny/github-readme-stats)
+[![Top Langs](https://github-readme-stats-tan-phi.vercel.app/api/top-langs/?username=yuenherny&count_private=true@langs_count=8&layout=compact&theme=gotham)](https://github.com/yuenherny/github-readme-stats)
 
 <!--
 **yuenherny/yuenherny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
