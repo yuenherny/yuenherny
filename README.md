@@ -8,7 +8,7 @@
 
 🕸️ Check out my portfolio: [yuenherny.github.io](https://yuenherny.github.io)
 
-### My stats:
+---
 
 [![yuenherny's GitHub stats](https://github-readme-stats-tan-phi.vercel.app/api?username=yuenherny&count_private=true&layout=compact&theme=gotham)](https://github.com/yuenherny/github-readme-stats)
 
