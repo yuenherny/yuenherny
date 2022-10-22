@@ -14,7 +14,7 @@
 
 [![Top Langs](https://github-readme-stats-tan-phi.vercel.app/api/top-langs/?username=yuenherny&count_private=false@langs_count=8&layout=compact&theme=gotham)](https://github.com/yuenherny/github-readme-stats)
 
-Made with ❤️ using [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
+Made with ❤️ using [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and Vercel.
 
 <!--
 **yuenherny/yuenherny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
