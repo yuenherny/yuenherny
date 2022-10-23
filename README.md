@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Yuen Hern
 
-💼 Working as: Data Scientist & Open Source Dev @ [Xpress AI](https://github.com/XpressAI)
+💼 What I do: Data Scientist & Open Source Dev @ [Xpress AI](https://github.com/XpressAI)
 
-👨‍🎓 Studying: Master of Data Science, University of Malaya
+👨‍🎓 What I learn: Bachelor of Mech Eng, UTHM :arrow_right: Master of Data Science, University of Malaya
 
 📧 How to reach me: yuenhern.yu@gmail.com | [LinkedIn](https://www.linkedin.com/in/yuenhernyu/) 
 
