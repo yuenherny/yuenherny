@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Yuen Hern
 
-💼 What I do: Data Scientist & Open Source Dev @ [Xpress AI](https://github.com/XpressAI)
+💼 What I do: Incoming SWE @ [Ørsted](https://github.com/Orsted) | Open Source Dev @ [Xpress AI](https://github.com/XpressAI)
 
 👨‍🎓 What I learn: Bachelor of Mech Eng, UTHM :arrow_right: Master of Data Science, University of Malaya
 
