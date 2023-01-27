@@ -1,12 +1,14 @@
 ### Hi there 👋 I'm Yuen Hern
 
-💼 What I do: Incoming SWE @ [Ørsted](https://github.com/Orsted) | Open Source Dev @ [Xpress AI](https://github.com/XpressAI)
+💼 What I do: SWE (Numerical Modelling) @ [Ørsted](https://github.com/Orsted) | Open Source Dev @ [Xpress AI](https://github.com/XpressAI)
 
 👨‍🎓 What I learn: Bachelor of Mech Eng, UTHM :arrow_right: Master of Data Science, University of Malaya
 
 📧 How to reach me: yuenhern.yu@gmail.com | [LinkedIn](https://www.linkedin.com/in/yuenhernyu/) 
 
 🕸️ Check out my portfolio: [yuenherny.github.io](https://yuenherny.github.io)
+
+❓ Helping out the community at [StackOverflow](https://stackoverflow.com/users/14103418/yuenherny)
 
 ---
 
