@@ -10,6 +10,8 @@
 
 ❓ Helping out the community at [StackOverflow](https://stackoverflow.com/users/14103418/yuenherny)
 
+❗ Need OSS help at [xai-rpa](https://github.com/yuenherny/xai-rpa)
+
 ---
 
 [![yuenherny's GitHub stats](https://github-readme-stats-tan-phi.vercel.app/api?username=yuenherny&count_private=true&layout=compact&theme=gotham)](https://github.com/yuenherny/github-readme-stats)
