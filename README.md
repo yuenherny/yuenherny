@@ -4,7 +4,7 @@
 
 👨‍🎓 What I learn: Bachelor of Mech Eng, UTHM :arrow_right: Master of Data Science, University of Malaya
 
-📧 How to reach me: yuenhern.yu@gmail.com | [LinkedIn](https://www.linkedin.com/in/yuenhernyu/) 
+📧 How to reach me: yuenhern.yu@gmail.com | [LinkedIn](https://www.linkedin.com/in/yuenhernyu/)
 
 🕸️ Check out my portfolio: [yuenherny.github.io](https://yuenherny.github.io)
 
@@ -13,6 +13,9 @@
 ❗ Need OSS help at [xai-rpa](https://github.com/yuenherny/xai-rpa)
 
 ---
+[![user:14103418's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/14103418?theme=monokai&website=true&location=true)](https://github.com/johannchopin/stackoverflow-readme-profile)
+
+[![user:14103418's ranking for python](https://stackoverflow-readme-profile.johannchopin.fr/tags-league-ranking/python/14103418?theme=monokai)](https://stackoverflow-readme-profile.vercel.app/tags-league/python/users/14103418) [![user:14103418's ranking for elasticsearch](https://stackoverflow-readme-profile.johannchopin.fr/tags-league-ranking/elasticsearch/14103418?theme=monokai)](https://stackoverflow-readme-profile.vercel.app/tags-league/elasticsearch/users/14103418)
 
 [![yuenherny's GitHub stats](https://github-readme-stats-tan-phi.vercel.app/api?username=yuenherny&count_private=true&layout=compact&theme=gotham)](https://github.com/yuenherny/github-readme-stats)
 
