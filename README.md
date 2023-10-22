@@ -1,4 +1,6 @@
-### Hi there 👋 I'm Yuen Hern
+### Hi there 👋 I'm Yuen Hern [![committers.top badge](https://user-badge.committers.top/malaysia/yuenherny.svg)](https://user-badge.committers.top/malaysia/yuenherny) 
+
+[![user:14103418's ranking for python](https://stackoverflow-readme-profile.johannchopin.fr/tags-league-ranking/python/14103418?theme=monokai)](https://stackoverflow-readme-profile.vercel.app/tags-league/python/users/14103418) [![user:14103418's ranking for elasticsearch](https://stackoverflow-readme-profile.johannchopin.fr/tags-league-ranking/elasticsearch/14103418?theme=monokai)](https://stackoverflow-readme-profile.vercel.app/tags-league/elasticsearch/users/14103418)
 
 💼 What I do: SWE (Numerical Modelling) @ [Ørsted](https://github.com/Orsted) | Open Source Dev @ [Xpress AI](https://github.com/XpressAI)
 
@@ -13,13 +15,12 @@
 ❗ Need OSS help at [xai-rpa](https://github.com/yuenherny/xai-rpa)
 
 ---
+
 [![user:14103418's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/14103418?theme=monokai&website=true&location=true)](https://github.com/johannchopin/stackoverflow-readme-profile)
 
-[![user:14103418's ranking for python](https://stackoverflow-readme-profile.johannchopin.fr/tags-league-ranking/python/14103418?theme=monokai)](https://stackoverflow-readme-profile.vercel.app/tags-league/python/users/14103418) [![user:14103418's ranking for elasticsearch](https://stackoverflow-readme-profile.johannchopin.fr/tags-league-ranking/elasticsearch/14103418?theme=monokai)](https://stackoverflow-readme-profile.vercel.app/tags-league/elasticsearch/users/14103418)
+[![Top Langs](https://github-readme-stats-tan-phi.vercel.app/api/top-langs/?username=yuenherny&count_private=false@langs_count=8&layout=compact&theme=gotham)](https://github.com/yuenherny/github-readme-stats)
 
 [![yuenherny's GitHub stats](https://github-readme-stats-tan-phi.vercel.app/api?username=yuenherny&count_private=true&layout=compact&theme=gotham)](https://github.com/yuenherny/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats-tan-phi.vercel.app/api/top-langs/?username=yuenherny&count_private=false@langs_count=8&layout=compact&theme=gotham)](https://github.com/yuenherny/github-readme-stats)
 
 Made with ❤️ using [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and Vercel.
 
