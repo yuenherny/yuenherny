@@ -2,7 +2,7 @@
 
 [![user:14103418's ranking for python](https://stackoverflow-readme-profile.johannchopin.fr/tags-league-ranking/python/14103418?theme=monokai)](https://stackoverflow-readme-profile.vercel.app/tags-league/python/users/14103418) [![user:14103418's ranking for elasticsearch](https://stackoverflow-readme-profile.johannchopin.fr/tags-league-ranking/elasticsearch/14103418?theme=monokai)](https://stackoverflow-readme-profile.vercel.app/tags-league/elasticsearch/users/14103418)
 
-💼 What I do: SWE (Numerical Modelling) @ [Ørsted](https://github.com/Orsted) | Open Source Dev @ [Xpress AI](https://github.com/XpressAI)
+💼 What I do: Full Stack SWE @ [Ørsted](https://github.com/Orsted) | Freelance Data Scientist and Software Developer
 
 👨‍🎓 What I learn: Bachelor of Mech Eng, UTHM :arrow_right: Master of Data Science, University of Malaya
 
@@ -12,7 +12,7 @@
 
 ❓ Helping out the community at [StackOverflow](https://stackoverflow.com/users/14103418/yuenherny)
 
-❗ Need OSS help at [xai-rpa](https://github.com/yuenherny/xai-rpa)
+📃 First author of the research article titled "[Intelligent optimization of a hybrid renewable energy system using an improved flower pollination algorithm](https://link.springer.com/article/10.1007/s13762-023-05354-1)", published in the International Journal of Environmental Science and Technology.
 
 ---
 
