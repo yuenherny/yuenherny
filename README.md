@@ -1,6 +1,8 @@
 ### Hi there 👋 I'm Yuen Hern [![committers.top badge](https://user-badge.committers.top/malaysia_public/yuenherny.svg)](https://user-badge.committers.top/malaysia_public/yuenherny)
 
+<!--
 [![user:14103418's ranking for python](https://stackoverflow-readme-profile.johannchopin.fr/tags-league-ranking/python/14103418?theme=monokai)](https://stackoverflow-readme-profile.vercel.app/tags-league/python/users/14103418) [![user:14103418's ranking for elasticsearch](https://stackoverflow-readme-profile.johannchopin.fr/tags-league-ranking/elasticsearch/14103418?theme=monokai)](https://stackoverflow-readme-profile.vercel.app/tags-league/elasticsearch/users/14103418)
+-->
 
 💼 What I do: Full Stack SWE @ [Ørsted](https://github.com/Orsted) | Freelance Data Scientist and Software Developer
 
@@ -23,18 +25,3 @@
 [![yuenherny's GitHub stats](https://github-readme-stats-tan-phi.vercel.app/api?username=yuenherny&count_private=true&layout=compact&theme=gotham)](https://github.com/yuenherny/github-readme-stats)
 
 Made with ❤️ using [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and Vercel.
-
-<!--
-**yuenherny/yuenherny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
