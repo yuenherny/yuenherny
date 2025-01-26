@@ -1,6 +1,7 @@
-### Hi there 👋 I'm Yuen Hern [![committers.top badge](https://user-badge.committers.top/malaysia_public/yuenherny.svg)](https://user-badge.committers.top/malaysia_public/yuenherny)
+### Hi there 👋 I'm Yuen Hern 
 
 <!--
+[![committers.top badge](https://user-badge.committers.top/malaysia_public/yuenherny.svg)](https://user-badge.committers.top/malaysia_public/yuenherny)
 [![user:14103418's ranking for python](https://stackoverflow-readme-profile.johannchopin.fr/tags-league-ranking/python/14103418?theme=monokai)](https://stackoverflow-readme-profile.vercel.app/tags-league/python/users/14103418) [![user:14103418's ranking for elasticsearch](https://stackoverflow-readme-profile.johannchopin.fr/tags-league-ranking/elasticsearch/14103418?theme=monokai)](https://stackoverflow-readme-profile.vercel.app/tags-league/elasticsearch/users/14103418)
 -->
 
